@@ -57,7 +57,8 @@ def getRandomSpecialCharacter():
 
 def getRandomAlphabetCharacter():
     if passwordAlphabeticLowHeight == 0:
-        return chr(rn.randint(65,122)) # Random Lower or Upper Case
+        alphabetichcharacterlist = [rn.randint(65,90),rn.randint(97,122)]
+        return chr(rn.choice(alphabetichcharacterlist)) # Random Lower or Upper Case
     if passwordAlphabeticLowHeight == 1:
         return chr(rn.randint(97, 122)) # Random Lower Case
     if passwordAlphabeticLowHeight == 2:
