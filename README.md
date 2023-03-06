@@ -22,5 +22,5 @@ Enter [y or n]: y
 --------------------------
 Creating Password ...
  
-Random Password: b07&8$&s$0@yXKN1@!7!S#0^8
+Random Password: $#&z!696s53692&x@3mc6F3!@
 ```
