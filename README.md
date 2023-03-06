@@ -6,7 +6,7 @@ Random Password Generator by JuniorJacki
 -----------------------------------------------------------------
 -------- Settings --------
 How Long Should the Password be: 
-Enter [1 ... ∞]: ```**25**```
+Enter [1 ... ∞]: ``` **25** ```
 --------------------------
 Alphabetic Characters:
 Both Lower and Uppercase = 0, Only Lower Case = 1, Only Upper Case = 2, Without Alphabetic Characters = 3
